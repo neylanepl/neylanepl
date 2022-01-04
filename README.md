@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 📚 Estou cursando Tecnologia da Informação no IMD - UFRN.
 - 🌱 Atualmente estou aprendendo Java.
 
-### Redes Sociais 
+### Redes sociais 
    <div>
-      <a href = "mailto:neylane.lopes.127@ufrn.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://instagram.com/neylanelopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:neylane.lopes.127@ufrn.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://instagram.com/neylanelopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white" target="_blank"></a>
    </div>
 
 ### Estatísticas de perfil do GitHub
