@@ -1,30 +1,27 @@
 ## Olá 👋
 
-<!--
-**neylanepl/neylanepl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma desenvolvedora apaixonada por tecnologia, com experiência em desenvolvimento web full stack, testes e machine learning. Busco sempre aprender e contribuir com soluções inovadoras e eficazes.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** JavaScript, Python, Java, SQL  
+- **Frameworks e Bibliotecas:** React, Node.js, Bootstrap, Jest, JUnit  
+- **Ferramentas:** Linux, Docker, Git, Power BI  
+- **Metodologias:** Desenvolvimento Ágil (Scrum)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Formação  
+- 🎓 **Engenharia de Software** (em andamento) - UFRN  
+- 🎓 **Bacharelado em Tecnologia da Informação** - UFRN  
+- 🎓 **Técnica em Informática** - IFRN  
 
-### Sobre mim
-- 🎓 Técnica em Informática pelo IFRN.
-- 📚 Estou cursando Tecnologia da Informação no IMD - UFRN.
-- 🌱 Atualmente estou aprendendo Java.
+### 🚀 Experiência Profissional  
+🔹 **Estagiária em Machine Learning e Testes** - SEFAZ/RN (2024 - atual)  
+🔹 **Bolsista de Desenvolvimento Web Full Stack** - CNPq (2022 - atual) 
 
-### Redes sociais 
-   <div>
-      <a href = "mailto:neylane.lopes.127@ufrn.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://instagram.com/neylanelopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white" target="_blank"></a>
-   </div>
+### 🌍 Onde me encontrar  
+<div>
+  <a href="mailto:neylanepl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/neylane-lopes-5b715522a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white"></a>
+</div>
 
 ### Estatísticas de perfil do GitHub
   <div align="center">
